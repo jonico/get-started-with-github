@@ -14,6 +14,10 @@ The purpose of this guide is to give you the basic information you need to get g
 
 - [GitHub Videos](https://www.youtube.com/user/GitHubGuides/)
 
+## Example how to link to additional markdown files in the same repository
+
+* [GitHub Enterprise FAQ - Deutsch](github-enterprise-faq-deutsch)
+
 # :octocat: The GitHub Platform
 
 GitHub is more than "version control"; it is an all-inclusive and unified collaboration platform:
