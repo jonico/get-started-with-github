@@ -1,3 +1,5 @@
+# Get started with GitHub
+
 # 🎯 Purpose
 
 The purpose of this guide is to give you the basic information you need to get going with GitHub.  This guide is intended to be used for GitHub in a common configuration. It is not the end all and be all of the information available to help you succeed with GitHub, but is a curated list of the following GitHub resources as well as other public sources of information:
